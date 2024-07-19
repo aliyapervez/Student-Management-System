@@ -1,9 +1,10 @@
 {
-  "name": "student-management-system",
+  "name": "@aliyapervez/student-management-system",
   "version": "1.0.0",
   "description": "this is a CLI based student management system program",
   "main": "index.js",
   "type": "module",
+  "bin": "index.js",
   "publishConfig":{
     "access" : "public"
   },
